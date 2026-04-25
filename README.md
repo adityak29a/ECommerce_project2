@@ -4,7 +4,7 @@
 
 This project performs **end-to-end data analysis** on an E-Commerce dataset to uncover insights on sales, profit, and business performance. The analysis identifies key trends, loss-making areas, and the impact of discount strategies using Python and Power BI.
 
----
+
 
 ## Problem Statement
 
@@ -22,7 +22,7 @@ E-commerce businesses often face challenges such as:
 * Analyze sales trends over time
 * Provide data-driven recommendations
 
----
+
 
 ## Objectives
 
@@ -32,7 +32,7 @@ E-commerce businesses often face challenges such as:
 * Analyze monthly and seasonal trends
 * Evaluate the impact of discounts on profit
 
----
+
 
 ##  Tools & Technologies
 
@@ -41,7 +41,7 @@ E-commerce businesses often face challenges such as:
 * **Power BI** 
 * Jupyter Notebook
 
----
+
 
 ##  Dataset
 
@@ -49,7 +49,7 @@ E-commerce businesses often face challenges such as:
 * Records: 50,000+ rows
 * Features: Orders, Sales, Profit, Discount, Category, Region, Dates
 
----
+
 
 ## Project Workflow
 
@@ -61,7 +61,7 @@ E-commerce businesses often face challenges such as:
 * Fixed data types and removed inconsistencies
 * Checked and handled duplicates
 
----
+
 
 ### 2️ Feature Engineering
 
@@ -69,7 +69,7 @@ E-commerce businesses often face challenges such as:
 * Created `profit_margin` using safe calculation
 * Created discount bins for analysis
 
----
+
 
 ### 3️ Exploratory Data Analysis (EDA)
 
@@ -79,28 +79,28 @@ E-commerce businesses often face challenges such as:
 * Total Profit: **1.46M+**
 * Total Orders: **25K+**
 
----
+
 
 ### Category Analysis
 
 * Technology → Highest profit
 * Furniture → Lowest profit
 
----
+
 
 ### Sub-Category Analysis
 
 * High Profit: Copiers, Phones
 * Loss-Making: Tables 
 
----
+
 
 ###  Region Analysis
 
 * Central → Highest performance
-* Southeast Asia → Low profit despite good sales ⚠
+* Southeast Asia → Low profit despite good sales 
 
----
+
 
 ###  Monthly Trend
 
@@ -108,7 +108,7 @@ E-commerce businesses often face challenges such as:
 * Lowest Sales: February
 * Strong seasonal trend (Q4 peak)
 
----
+
 
 ###  Discount vs Profit Analysis
 
@@ -121,7 +121,7 @@ E-commerce businesses often face challenges such as:
  **Key Finding:**
 Discounts above **30% lead to losses**
 
----
+
 
 ##  Power BI Dashboard
 
@@ -134,7 +134,7 @@ Discounts above **30% lead to losses**
 * Discount vs Profit analysis
 * Interactive filters (Year, Region, Category)
 
----
+
 
 ##  Key Insights
 
@@ -143,7 +143,7 @@ Discounts above **30% lead to losses**
 * **Discounting is the main reason for losses**
 * Regional performance varies significantly
 
----
+
 
 ##  Business Recommendations
 
@@ -152,7 +152,7 @@ Discounts above **30% lead to losses**
 * Re-evaluate pricing for loss-making items (Tables)
 * Improve performance in low-profit regions
 
----
+
 
 ##  Project Outcome
 
@@ -164,7 +164,7 @@ This project demonstrates:
 * Business insight generation
 * Dashboard creation using Power BI
 
----
+
 
 ##  Author
 
